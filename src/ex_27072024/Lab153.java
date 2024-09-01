@@ -5,6 +5,7 @@ public class Lab153 {
 
         StringBuilder SBU = new StringBuilder("Harika");
         System.out.println(SBU.reverse());
+        System.out.println(SBU.deleteCharAt(5));
 
     }
 }
